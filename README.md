@@ -13,18 +13,37 @@ This repository serves as a resource and learning practice for the mathematics u
 
 ## Python Scripts
 
-Each mathematical concept is accompanied by a Python script that illustrates the concept with code. The scripts are located in the `scripts/` directory.
-
-## Examples
-
-Jupyter notebooks with practical examples and applications of the mathematical concepts are provided in the `examples/` directory.
-
-## Getting Started
-
-To get started, clone the repository and install the required dependencies:
-
-```bash
-pip install -r requirements.txt
+```
+├── Attention
+├── Embedding
+├── Evaluation
+├── Fine-tuning
+├── Generation
+├── Information-Theory
+│   ├── cross-entropy.py
+│   ├── entroy.py
+│   ├── kl_divergence.py
+│   ├── mutual_information.py
+│   └── visualization.py
+├── math_fundamentals.py
+├── Norms
+│   ├── Euclidean-Norm(L2-Norm).py
+│   ├── Frobenious-Norm(Matrices).py
+│   ├── Manhattan-Norm(L1-Norm).py
+│   ├── Maximum-Norm(L∞-Norm).py
+│   └── Spectral-Norm(Matrix-2-Norm).py
+├── Optimization
+│   ├── adam_algo.py
+│   ├── gradient_descent.py
+│   ├── line_search.py
+│   ├── newton_method.py
+│   ├── particle_swarm.py
+│   ├── plotting.py
+│   └── Stochastic-Gradient-Descent.py
+├── Preprocessing
+├── Regularization
+├── Tokenization
+└── Validation
 ```
 
 ## Contributing
