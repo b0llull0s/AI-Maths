@@ -15,6 +15,9 @@ This repository serves as a resource and learning practice for the mathematics u
 
 ```
 ├── Attention
+│   ├── multi_head_attention.py
+│   ├── positional_encoding.py
+│   └── self_attention.py
 ├── Embedding
 ├── Evaluation
 ├── Fine-tuning
