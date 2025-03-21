@@ -1,4 +1,4 @@
-# AI Mathematics Resource
+# AI Mathematics Resources
 
 This repository serves as a resource and learning practice for the mathematics used to train and develop AI, particularly Large Language Models (LLMs).
 
